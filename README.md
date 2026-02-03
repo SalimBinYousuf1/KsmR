@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="ksmr_logo.png" alt="KsmR" width="500">
   <h1>KsmR: Ultra-Lightweight Personal AI Assistant</h1>
   <p>
     <a href="https://pypi.org/project/ksmr/"><img src="https://img.shields.io/pypi/v/ksmr" alt="PyPI"></a>
